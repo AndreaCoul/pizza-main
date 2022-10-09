@@ -1,2 +1,1 @@
-# pizza-main
-Thinkful pizza repo
+# pizza
